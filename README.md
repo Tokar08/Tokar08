@@ -11,11 +11,11 @@ While my primary focus is on backend development, I also have an interest in fro
 
 ### Connect with me:
 <p align="left">
+    <a href="https://www.hackerrank.com/profile/ivan_tokar_git" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ivan_tokar_git" height="30" width="40" />
+  </a>
   <a href="https://discord.gg/Азула7878" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Азула7878" height="40" width="50" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/ivan_tokar_git" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ivan_tokar_git" height="30" width="40" />
   </a>
 </p>
 
@@ -70,3 +70,8 @@ While my primary focus is on backend development, I also have an interest in fro
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tokar08&show_icons=true&locale=en&layout=compact" alt="tokar08" />
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tokar08&" alt="tokar08" />
+</p>
+
