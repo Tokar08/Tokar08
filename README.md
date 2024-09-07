@@ -14,6 +14,9 @@ While my primary focus is on backend development, I also have an interest in fro
   <a href="https://discord.gg/Азула7878" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Азула7878" height="40" width="50" />
   </a>
+  <a href="https://www.hackerrank.com/profile/ivan_tokar_git" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/ivan_tokar_git" height="30" width="40" />
+  </a>
 </p>
 
 ---
